@@ -10,11 +10,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "node-sass": "^4.11.0"
-  },
   "devDependencies": {
     "stylelint": "^9.10.1",
-    "stylelint-scss": "^3.5.4"
+    "stylelint-scss": "^3.5.4",
+    "node-sass": "^4.11.0"
   }
 }
